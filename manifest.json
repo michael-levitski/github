@@ -3,8 +3,8 @@
   "short_name": "GitHub",
   "start_url": "github.html",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#22272d",
+  "theme_color": "#22272d",
   "orientation": "any",
   "icons": [
     {
